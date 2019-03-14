@@ -1,0 +1,12 @@
+*~
+Makefile
+build
+
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/data/*
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/deepspeech_final_30_1024_neurons.pth
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/deepspeech_final_50Epoch.pth
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/deepspeech_final_BANGLA_10epoch.pth
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/deepspeech_final_BANGLA_30epoch.pth
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/deepspeech_final_ENGLISH.pth
+pytorch_binding/audio/ctcdecode/deepspeech.pytorch/LM-FILES/*
+
